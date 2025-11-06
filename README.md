@@ -9,3 +9,9 @@ Join in and showcase your talent in predicting food ratings – it's time to tur
 Description:
 The challenge revolves around predicting the rating of food recipe.
 Participants will receive a comprehensive dataset comprising recipe names, reviews, and various relevant features.
+
+
+How to Run
+Clone this File 
+Install all Libraries
+Run
